@@ -1,6 +1,6 @@
-# HorseRace 🐎
+# HorseRaceV2 🐎
 
-¡Bienvenido a **HorseRace**, un juego y simulador de carreras de caballos tipo hipódromo con apuestas! 
+¡Bienvenido a **HorseRaceV2**, un juego y simulador de carreras de caballos tipo hipódromo con apuestas! 
 
 Este proyecto es una versión refactorizada y mejorada del proyecto original [angelesdepapel/HorseRace](https://github.com/angelesdepapel/HorseRace). Toda la reestructuración, la integración de la interfaz gráfica y la refactorización del código fue realizada a base de puro **Claude Opus 4.6**.
 

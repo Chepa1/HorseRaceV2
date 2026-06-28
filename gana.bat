@@ -1,1 +1,0 @@
-py ganar.py %1

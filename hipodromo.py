@@ -33,7 +33,7 @@ class Hipodromo:
         self.root = root
         self.root.title("🐎 Hipódromo — Noche de Apuestas")
         self.root.configure(bg="#1d2433")
-        self.root.geometry("1060x720")
+        self.root.geometry("1060x850")
 
         self.apuestas = []          # [{'nombre', 'color', 'fichas'}]
         self.pozo_acumulado = 0
